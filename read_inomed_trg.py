@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Author: Stefan Repplinger
 Mail: stefan.repplinger@ovgu.de
